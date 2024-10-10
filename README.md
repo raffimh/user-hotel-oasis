@@ -2,6 +2,10 @@
 
 This application allows users to book hotels seamlessly. It is built using Next.js, Supabase for the database, and Auth.js for authentication.
 
+![Screenshot 2024-10-09 162313](https://github.com/user-attachments/assets/1fc1ab25-be86-4948-a541-b27197387232)
+![Screenshot 2024-10-09 162248](https://github.com/user-attachments/assets/3e2721d0-8466-4389-9040-c3906838dc34)
+
+
 ## Table of Contents
 
 - [Technologies Used](#technologies-used)
